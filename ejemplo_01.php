@@ -1,3 +1,3 @@
 <?php
-    echo "pagina de prueba";
+    echo "pagina de prueba"; //hay que modificar
 ?>
